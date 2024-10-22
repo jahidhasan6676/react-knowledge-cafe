@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/ZMRdtwp/1.jpg",
+      "title": "Whispers of the Ocean",
+      "author": "Amara Blake",
+      "img": "https://i.ibb.co.com/Tt9XWR9/boy1.png",
+      "posted_date": "Mar 29 (29 days ago)",
+      "reading_time": 7 ,
+      "hashtags": [
+        "#fiction", 
+        "#ocean"
+        ]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/7g4Lm97/2.png",
+      "title": "The Forgotten Kingdom",
+      "author": "Elijah Stone",
+      "img": "https://i.ibb.co.com/ZHbzbzN/boy2.jpg",
+      "posted_date": "Mar 24 (24 days ago)",
+      "reading_time": 5,
+      "hashtags": [
+        "#fantasy", 
+        "#kingdom"
+        ]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/yqpBGKw/3.png",
+      "title": "Into the Wild",
+      "author": "Sophia Green",
+      "img": "https://i.ibb.co.com/yF7W3pj/girl1.jpg",
+      "posted_date": "Mar 20 (20 days ago)",
+      "reading_time": 10,
+      "hashtags": [
+        "#nature", 
+        "#wildlife"
+        ]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/800QwVj/4.jpg",
+      "title": "Digital Dreams",
+      "author": "James Harper",
+      "img": "https://i.ibb.co.com/KyWz77B/girl2.jpg",
+      "posted_date": "Mar(4 days ago)",
+      "reading_time": 8,
+      "hashtags": [
+        "#technology", 
+        "#future"
+        ]
+    }
+    
+  ]
+  
